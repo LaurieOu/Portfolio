@@ -77,8 +77,8 @@ BRUSHED.slider = function(){
 		thumb_links				:	0,			// Individual thumb links for each slide
 		thumbnail_navigation    :   0,			// Thumbnail navigation
 		slides 					:  	[			// Slideshow Images
-											{image : 'IMG_4203.jpg', title : '<div class="slide-content">Laurie Ou</div>', thumb : '', url : ''},
-											{image : 'IMG_4237.jpg', title : '<div class="slide-content">Laurie Ou</div>', thumb : '', url : ''}
+											{image : 'Lauriepic1.png', title : '<div class="slide-content">Laurie Ou</div>', thumb : '', url : ''},
+											{image : 'Lauriepic2.png', title : '<div class="slide-content">Laurie Ou</div>', thumb : '', url : ''}
 									],
 
 		// Theme Options
